@@ -1,0 +1,22 @@
+{
+  "name": "adventjs-midudev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "vitest",
+    "test:coverage": "vitest run --coverage"
+  },
+  "keywords": [
+    "adventjs",
+    "midudev"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.37.0",
+    "prettier": "^2.8.7",
+    "vitest": "^0.29.8"
+  }
+}
