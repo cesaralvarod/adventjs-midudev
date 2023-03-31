@@ -6,7 +6,7 @@ describe('1. wrapping', () => {
     expect(typeof wrapping).toBe('function')
   })
 
-  it('should throw if first parameter is missgin', () => {
+  it('should throw if first parameter is missing', () => {
     expect(() => wrapping()).toThrow()
   })
 
